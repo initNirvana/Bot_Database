@@ -2,6 +2,74 @@
 ============
 
 
+#[@컴퓨터 SW 봇](https://twitter.com/computersw_bot)
+- - -
+```bash
+sudo apt-get install kaenyeom (해석: 개념을 설치하고 싶다.)  
+```
+```cpp
+#include "study.h"를 해야 하지만 이미 내 머릿속엔 #include "smartphone.h" 
+```
+
+
+	<"같다"의 기호는?> 수학과: "=" 
+	프로그래머: "==", 수학과: "?? 왜 ==임?"
+	프로그래머: "=으로 하면 대입이거든 ㅋ" 수학과: "..."  
+
+
+```c
+Woman *girlfriend = NULL; 
+/* 여자는 */ 
+Man *boyfriend = NULL; 
+```
+
+프로그래머들이 많이쓰는 변수이름: i,j,a,b,c,k,p,m,n,x,y,ch,arr,str,ptr,len,data,f,file,buf,tmp,val,num,cnt,sum,avg,mul,foo,bar 함수에서는 func,swap,fact 등등  
+
+
+```bash
+#절대 따라하지 마세요, 컴퓨터 빨라지는 법 리눅스 판. 
+터미널에 sudo rm -rf /* 
+
+#러시안 룰렛 버전
+[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *찰칵*
+```
+컴퓨터 소프트웨어는 오직 0과 1만으로 표현된다. 하지만 실제로는 소프트웨어를 만들 때 0과 1로 만드는 것이 아니라 프로그래밍 언어로 만든다.  
+
+	 자바스크립트에는 == 도 있고 === 도 있는데 === 가 훨씬 바람직합니다.
+	 == 는 타입이 다른 경우에 값을 강제로 변환해서 비교하기 때문이죠.
+	 0 == ' ' 이나 0 == '0' 같은 것들이 true 가 됩니다.\n(John Grib님 제보) 
+
+  
+```c
+/* 우리나라 현실 */
+while (true) {
+	switch (job) {
+	case Student: study (); break;
+	case Worker: work (); break;
+	}
+} (milennium9님의제보)  
+```
+
+```c
+복수심에 가득한 프로그래머의 비장의 프로젝트를 부셔버리는 매크로.. 
+#define true false
+#define false true //#프로젝트부수기  
+```
+```c
+#define true (((__COUNTER__+1)%100)?true:false)
+#define false (((__COUNTER__+1)%100)?false:true)
+//#프로젝트 부수기 자매품입니다. 하나만 쓰셔야 합니다.
+```
+
+[c9.io](c9.io) 는 거의 완벽한 클라우드 IDE환경을 지원해요. 심지어 node.js 서버까지 만들어서 테스트 할 수 있어요.(theKnJ 님의 제보) 
+
+이 사이트는 03표준까지만 지원해요. [ideone.com](Ideone.com) 이 코드 입력 중 들여쓰기와 하이라이팅 까지 잘됩니다. 그리고 크롬에서 사용해야 제대로 동작합니다.(milennium9 님의 제보)  
+
+
+
+
+
+
 
 - - -
 
