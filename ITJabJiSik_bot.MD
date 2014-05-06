@@ -3,7 +3,7 @@
 - - -
 
 
-@[IT 잡 지식 봇](https://twitter.com/ITJabJiSik_Bot/statuses/462932756918325249)
+[IT 잡 지식 봇] (https://twitter.com/ITJabJiSik_Bot/statuses/462932756918325249)
 라스베리 파이(Raspberry Pi)와 전자렌지가 만난다면? - http://dok.do/pkOh9z #bot
 
 스마트폰 OS에는 Google(Android) /Apple(IOS) /MS(Windows Phone) /RIM(BlackBerry) /Nokia(Symbian) /Mozilla(FirefoxOS) /Canonical(UbuntuTouch)가 있어요!
